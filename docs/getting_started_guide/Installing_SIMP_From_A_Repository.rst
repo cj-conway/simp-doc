@@ -120,7 +120,7 @@ Modify Yum URLs
 ---------------
 
 Set the following variables to repositories of your choosing in
-``/etc/puppetlabs/code/environments/production/hieradata/default.yaml``
+``/etc/puppet/environments/production/hieradata/default.yaml``
 
 .. code-block:: yaml
 
